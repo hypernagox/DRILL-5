@@ -78,3 +78,5 @@ while handle_event():
     boy.CheckArrive()
     clear_canvas()
     delay(0.02)
+
+close_canvas()
